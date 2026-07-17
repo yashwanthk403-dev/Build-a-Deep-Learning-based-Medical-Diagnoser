@@ -1,7 +1,10 @@
-# Build-a-Deep-Learning-based-Medical-Diagnoser
-Deep learning-based medical diagnosis system for disease prediction using neural networks and medical data
+# 🧠 Build a Deep Learning-based Medical Diagnoser
 
-# project, use this structure
+Deep learning-based medical diagnosis system for disease prediction using neural networks and medical data.
+
+## 📁 Project Structure
+
+```text
 Medical-Diagnoser/
 │
 ├── dataset/
